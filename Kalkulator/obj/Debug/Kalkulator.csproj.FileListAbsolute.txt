@@ -1,0 +1,6 @@
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\peterspl\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
